@@ -82,7 +82,7 @@ const TeacherList: React.FC = () => {
           />
 
           <button type="submit">
-            Search
+            Procurar
           </button>
         </form>
       </PageHeader>
